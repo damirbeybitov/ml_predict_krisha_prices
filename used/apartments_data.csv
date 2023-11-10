@@ -1,0 +1,6 @@
+price,room_count,quadrature,floor_text,floor,region_text,region,year,flat_toilet,flat_balcony,flat_balcony_g,flat_door,inet_type,flat_parking,live_furniture,flat_flooring,ceiling
+31000000,2,60.0,8/12,0.67,Алатауский р-н,1e-10,2019,совмещенный,no_info,no_info,металлическая,ADSL,рядом охраняемая стоянка,частично,ламинат,2.7
+25000000,2,47.0,3/9,0.33,Алатауский р-н,1e-10,2011,совмещенный,no_info,no_info,металлическая,проводной,no_info,без мебели,ламинат,2.7
+1861400000,6,521.1,20/22,0.91,Бостандыкский р-н,1.0,2015,2 с/у и более,лоджия,да,металлическая,no_info,паркинг,частично,паркет,2.8
+1861400000,6,521.0,20/22,0.91,Бостандыкский р-н,1.0,2015,no_info,no_info,no_info,no_info,no_info,no_info,no_info,no_info,2.8
+1861400000,5,521.0,20/22,0.91,Алматы,,2015,2 с/у и более,несколько балконов или лоджий,no_info,металлическая,no_info,no_info,no_info,паркет,2.8
